@@ -3,7 +3,7 @@ Probability and Statistics
 
 Introduction
 ------------
-This is a repository containing shared resources for the Probability and Statistics course at the University of Birmingham. 
+This is a repository containing shared resources for the Probability and Statistics module at the University of Birmingham. 
 
 You can visit the [main repository page][main-repo] to find out more about the idea and how to contribute.
 
